@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d168516.css",
+    "main.js": "/static/js/main.3f4b08c7.js",
+    "static/js/453.ffed1e30.chunk.js": "/static/js/453.ffed1e30.chunk.js",
+    "static/media/impact_financing_model.png": "/static/media/impact_financing_model.deaf7ca5070c72aacd40.png",
+    "index.html": "/index.html",
+    "main.3d168516.css.map": "/static/css/main.3d168516.css.map",
+    "main.3f4b08c7.js.map": "/static/js/main.3f4b08c7.js.map",
+    "453.ffed1e30.chunk.js.map": "/static/js/453.ffed1e30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d168516.css",
+    "static/js/main.3f4b08c7.js"
+  ]
+}

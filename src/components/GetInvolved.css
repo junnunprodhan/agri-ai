@@ -1,0 +1,20 @@
+.get-involved-section {
+  position: relative;
+  overflow: hidden;
+  color: rgb(0, 0, 0);
+}
+
+.background-image {
+  position: absolute;
+  inset: 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.6; /* Adjust opacity here */
+  z-index: 1;
+}
+
+.get-involved-section .container {
+  position: relative;
+  z-index: 2;
+}
